@@ -1,3 +1,4 @@
+#시간초과 코드
 import heapq
 import sys
 k=int(input())
