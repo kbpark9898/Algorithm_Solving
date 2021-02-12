@@ -18,12 +18,18 @@
 
 
 #dictionary (hash in python) practice
-_number=['one', 'two', 'three', 'four']
-_num=[1, 2, 3, 4]
-_dict = dict(zip(_number, _num))
-new_dict={word : number for word, number in _dict.items() if number>1}
+# _number=['one', 'two', 'three', 'four']
+# _num=[1, 2, 3, 4]
+# _dict = dict(zip(_number, _num))
+# new_dict={word : number for word, number in _dict.items() if number>1}
 
-print(_dict)
-print(new_dict)
+# print(_dict)
+# print(new_dict)
+
+k={'test' : 1}
+data=k.keys()
+print(k[data])
+print(k.keys())
+print(k.items())
 
 
