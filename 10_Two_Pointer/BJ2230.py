@@ -6,9 +6,10 @@ for i in range(k):
 numbers.sort()
 left=0
 right=1
-value=1000000001
+#경계값 철저히 확인해서 최대 범위를 잘 설정할것!
+value=3000000001
 
-while left<k and right<k:
+while right < k:
     gap=numbers[right]-numbers[left]
     if gap == target:
         value = gap
@@ -18,6 +19,8 @@ while left<k and right<k:
         left+=1
     else:
         right+=1
+        if right>=len(numbers):
+            break
     
 
 print(value)
