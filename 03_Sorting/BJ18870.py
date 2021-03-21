@@ -12,3 +12,5 @@ for i in sorted_list:
 
 for i in number_list:
     print(number_hash[i], end=' ')
+
+#global config test
