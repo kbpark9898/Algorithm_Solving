@@ -2,7 +2,7 @@
 <br>
 
 ### **1. 개요**
-이 repo는 python을 활용하여 주제별 algorithm PS 진행 과정을 담고 있습니다. 이 repo에서 다루는 주제는 다음과 같습니다.
+이 repo는 python을 활용한 주제별 algorithm PS 진행 과정을 담고 있습니다. 이 repo에서 다루는 주제는 다음과 같습니다.
 
 1. Queue and stack
 2. Bruteforce (완전탐색)
