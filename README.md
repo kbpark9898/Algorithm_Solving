@@ -14,7 +14,7 @@
 8. Implementation (구현 타입의 문제)
 9. Graph algorithm (DFS, BFS를 접목시킨 특수한 그래프 탐색 알고리즘)
 10. Two pointer
-11. Dynamic programming (memoization)
+11. Dynamic programming (memoization , 분할정복)
 12. Tree
 
 <br>
