@@ -1,5 +1,7 @@
 k= int(input())
 ballon = list(map(int, input().split()))
+#deque로 풀수 있다고 하나, 모듈로 연산 구현으로 풀었음
+
 ballon_count = k
 index=0
 data = ballon.pop(index)
