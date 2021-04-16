@@ -1,4 +1,5 @@
-#완전탐색으로 분류했지만 bfs + 완탐으로 푼 문제!
+#완전탐색으로 분류했지만 bfs + 완탐으로 푼 문제.
+#플로이드 워셜로도 가능할까??
 
 import sys
 from collections import deque
