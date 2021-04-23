@@ -1,3 +1,5 @@
+#0423 복습
+
 total, win = map(int, input().split())
 current_win_rate = (win*100)//total
 def win_rate(total_game, win_game):

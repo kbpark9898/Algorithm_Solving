@@ -2,6 +2,7 @@ n, m = map(int, input().split())
 
 immigration=[]
 
+#0423_복습
 for i in range(n):
     immigration.append(int(input()))
 
