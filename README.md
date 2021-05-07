@@ -1,6 +1,8 @@
 # **Algorithm problem solving with python**
 <br>
 
+### * 2021.05.07 기준 현재 분류로 모든 문제를 정리하는데에 한계를 느껴, 본 README와 분류체계는 곧 수정될 예정입니다.
+
 ### **1. 개요**
 이 repo는 python을 활용한 주제별 algorithm PS 진행 과정을 담고 있습니다. 이 repo에서 다루는 주제는 다음과 같습니다.
 
