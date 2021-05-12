@@ -33,3 +33,12 @@ BOJ : https://www.acmicpc.net/
 
 
 Thanks for VSFe!
+
+<br>
+
+### **3. 언어에 관한 이야기**
+이 repo는 기본적으로 python3를 이용해 문제를 푸는것을 원칙으로 합니다.
+
+하지만 python3를 이용해서 시간초과를 해결하지 못하는 경우 C++로 풀어보는 때가 가끔 있습니다.
+
+따라서 해당 repo의 풀이가 100% python3으로 이루어져 있지는 않습니다.
