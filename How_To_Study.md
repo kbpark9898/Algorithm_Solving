@@ -26,18 +26,21 @@ PS는 기본적으로 문제(정확히는 문제 채점 서버)에서 입력하�
 ### **2. 알고리즘 분류**
 기본적인 컴퓨터공학적 이론을 어느정도 쌓았다면, 이제는 코딩 테스트에 주로 출제되는 알고리즘 분류를 알아야합니다. 사실 코딩테스트에는 그렇게 복잡한 알고리즘이 출제되지는 않습니다. 컴퓨터공학과 학부생이라면 한번쯤 접해봤을법한 이론적 배경에 한하여 출제됩니다. 즉, 본인의 노력 여하에 따라서 충분히 실력이 개선될 여지가 있다는 것입니다. 물론 이는 필자의 실력이 우월하다는것을 의미하는것이 아니며 필자의 실력이 분류별 알고리즘을 풀며 비약적으로 상승했다는것을 의미하지도 않습니다. 다만, PS를 처음 공부할 때 적절한 분류에 따라서 문제를 풀어보는것은 보다 더 효율적인 접근이 될 수 있다는 것을 뜻합니다. 이러한 관점에서 필자가 공부하면서 분류해놓은 알고리즘 유형은 다음과 같습니다.
 
-1. Queue and stack
-2. Bruteforce (완전탐색)
+
+1. Queue and stack (deque 사용 유형 포함)
+2. Bruteforce (완전탐색. 백트래킹이 포함됩니다.)
 3. Sorting
 4. Binary search
 5. Heap and hash
 6. Greedy algorithm (탐욕 알고리즘)
 7. Graph traversal (DFS, BFS를 포함한 그래프 탐색)
-8. Implementation (구현 타입의 문제)
+8. Implementation (구현 타입의 문제. 분할정복, 재귀, 시뮬레이션 등의 문제가 포함됩니다.)
 9. Graph algorithm (DFS, BFS를 접목시킨 특수한 그래프 탐색 알고리즘)
 10. Two pointer
-11. Dynamic programming (memoization , 분할정복)
+11. Dynamic programming (memoization. 해당 형식으로 푼 분할정복 문제가 포함됩니다.)
 12. Tree
+13. String (원래 문자열을 다루는 방식이 어떤 알고리즘이냐에 따라 분류했지만, 이제 문자열 유형으로 따로 분류합니다.)
+
 
 해당 문제 분류는 VSFe 님의 algorithm study repo의 유형 분류를 따랐으며, 필자의 부연설명을 조금 덧붙인 것입니다. (https://github.com/VSFe/Algorithm_Study)
 
