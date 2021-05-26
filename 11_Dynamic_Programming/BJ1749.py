@@ -1,3 +1,4 @@
+# DP + 구간합
 import sys
 if __name__ == '__main__':
     sero, garo = map(int, sys.stdin.readline().split())
