@@ -32,7 +32,7 @@ def check_prime(number):
             return False
     return True
 
-
+# 댜른 풀이
 # from itertools import permutations
 # def prime_number(number):
 #     for i in range(2, number):
