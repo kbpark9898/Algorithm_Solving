@@ -1,3 +1,5 @@
+#pypy3 메모리초과
+#python3 통과
 from itertools import permutations
 
 def check(string):
@@ -10,18 +12,14 @@ def check(string):
 result = 0
 
 string = list(input())
-h=[]
-
-
-for perm in permutations(range(len(string)), len(string)):
-    cur_string = ''
-    for i in perm:
-        cur_string+=string[i]
+h={}
+for perm in permutations(string, len(string)):
+    cur_string = ''.join(perm)
     if cur_string not in h and check(cur_string):
         result+=1
-        h.append(cur_string)
-
+        h[cur_string] = 1
         
+
 print(result)
 
 
